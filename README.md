@@ -1,2 +1,2 @@
-# progra-2-homework
+# PRO2-UPC-HOMEWORK
 programacion 2 tareas
