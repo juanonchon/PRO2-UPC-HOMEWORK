@@ -1,0 +1,14 @@
+C:\github\el digito mayor\bin\Debug\net7.0\el digito mayor.exe
+C:\github\el digito mayor\bin\Debug\net7.0\el digito mayor.deps.json
+C:\github\el digito mayor\bin\Debug\net7.0\el digito mayor.runtimeconfig.json
+C:\github\el digito mayor\bin\Debug\net7.0\el digito mayor.dll
+C:\github\el digito mayor\bin\Debug\net7.0\el digito mayor.pdb
+C:\github\el digito mayor\obj\Debug\net7.0\el digito mayor.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\el digito mayor\obj\Debug\net7.0\el digito mayor.AssemblyInfoInputs.cache
+C:\github\el digito mayor\obj\Debug\net7.0\el digito mayor.AssemblyInfo.cs
+C:\github\el digito mayor\obj\Debug\net7.0\el digito mayor.csproj.CoreCompileInputs.cache
+C:\github\el digito mayor\obj\Debug\net7.0\el digito mayor.dll
+C:\github\el digito mayor\obj\Debug\net7.0\refint\el digito mayor.dll
+C:\github\el digito mayor\obj\Debug\net7.0\el digito mayor.pdb
+C:\github\el digito mayor\obj\Debug\net7.0\el digito mayor.genruntimeconfig.cache
+C:\github\el digito mayor\obj\Debug\net7.0\ref\el digito mayor.dll

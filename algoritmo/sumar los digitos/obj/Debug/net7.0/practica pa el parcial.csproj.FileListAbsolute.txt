@@ -1,0 +1,14 @@
+C:\github\practica pa el parcial\bin\Debug\net7.0\practica pa el parcial.exe
+C:\github\practica pa el parcial\bin\Debug\net7.0\practica pa el parcial.deps.json
+C:\github\practica pa el parcial\bin\Debug\net7.0\practica pa el parcial.runtimeconfig.json
+C:\github\practica pa el parcial\bin\Debug\net7.0\practica pa el parcial.dll
+C:\github\practica pa el parcial\bin\Debug\net7.0\practica pa el parcial.pdb
+C:\github\practica pa el parcial\obj\Debug\net7.0\practica pa el parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\practica pa el parcial\obj\Debug\net7.0\practica pa el parcial.AssemblyInfoInputs.cache
+C:\github\practica pa el parcial\obj\Debug\net7.0\practica pa el parcial.AssemblyInfo.cs
+C:\github\practica pa el parcial\obj\Debug\net7.0\practica pa el parcial.csproj.CoreCompileInputs.cache
+C:\github\practica pa el parcial\obj\Debug\net7.0\practica pa el parcial.dll
+C:\github\practica pa el parcial\obj\Debug\net7.0\refint\practica pa el parcial.dll
+C:\github\practica pa el parcial\obj\Debug\net7.0\practica pa el parcial.pdb
+C:\github\practica pa el parcial\obj\Debug\net7.0\practica pa el parcial.genruntimeconfig.cache
+C:\github\practica pa el parcial\obj\Debug\net7.0\ref\practica pa el parcial.dll

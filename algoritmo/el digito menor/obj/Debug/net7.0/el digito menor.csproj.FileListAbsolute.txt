@@ -1,0 +1,14 @@
+C:\github\el digito menor\bin\Debug\net7.0\el digito menor.exe
+C:\github\el digito menor\bin\Debug\net7.0\el digito menor.deps.json
+C:\github\el digito menor\bin\Debug\net7.0\el digito menor.runtimeconfig.json
+C:\github\el digito menor\bin\Debug\net7.0\el digito menor.dll
+C:\github\el digito menor\bin\Debug\net7.0\el digito menor.pdb
+C:\github\el digito menor\obj\Debug\net7.0\el digito menor.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\el digito menor\obj\Debug\net7.0\el digito menor.AssemblyInfoInputs.cache
+C:\github\el digito menor\obj\Debug\net7.0\el digito menor.AssemblyInfo.cs
+C:\github\el digito menor\obj\Debug\net7.0\el digito menor.csproj.CoreCompileInputs.cache
+C:\github\el digito menor\obj\Debug\net7.0\el digito menor.dll
+C:\github\el digito menor\obj\Debug\net7.0\refint\el digito menor.dll
+C:\github\el digito menor\obj\Debug\net7.0\el digito menor.pdb
+C:\github\el digito menor\obj\Debug\net7.0\el digito menor.genruntimeconfig.cache
+C:\github\el digito menor\obj\Debug\net7.0\ref\el digito menor.dll
