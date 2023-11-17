@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\P2G2 HOMERWORKE\\PRO2-UPC-HOMEWORK\\practico parcial\\practico parcial.csproj": {}
+    "C:\\Practico del parcial\\Practico del parcial.csproj": {}
   },
   "projects": {
-    "C:\\P2G2 HOMERWORKE\\PRO2-UPC-HOMEWORK\\practico parcial\\practico parcial.csproj": {
+    "C:\\Practico del parcial\\Practico del parcial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\P2G2 HOMERWORKE\\PRO2-UPC-HOMEWORK\\practico parcial\\practico parcial.csproj",
-        "projectName": "practico parcial",
-        "projectPath": "C:\\P2G2 HOMERWORKE\\PRO2-UPC-HOMEWORK\\practico parcial\\practico parcial.csproj",
+        "projectUniqueName": "C:\\Practico del parcial\\Practico del parcial.csproj",
+        "projectName": "Practico del parcial",
+        "projectPath": "C:\\Practico del parcial\\Practico del parcial.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\P2G2 HOMERWORKE\\PRO2-UPC-HOMEWORK\\practico parcial\\obj\\",
+        "outputPath": "C:\\Practico del parcial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
