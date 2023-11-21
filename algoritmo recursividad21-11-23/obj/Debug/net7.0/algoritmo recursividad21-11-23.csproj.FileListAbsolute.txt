@@ -1,0 +1,14 @@
+C:\tareas de codigo o algoritmo\algoritmo recursividad21-11-23\bin\Debug\net7.0\algoritmo recursividad21-11-23.exe
+C:\tareas de codigo o algoritmo\algoritmo recursividad21-11-23\bin\Debug\net7.0\algoritmo recursividad21-11-23.deps.json
+C:\tareas de codigo o algoritmo\algoritmo recursividad21-11-23\bin\Debug\net7.0\algoritmo recursividad21-11-23.runtimeconfig.json
+C:\tareas de codigo o algoritmo\algoritmo recursividad21-11-23\bin\Debug\net7.0\algoritmo recursividad21-11-23.dll
+C:\tareas de codigo o algoritmo\algoritmo recursividad21-11-23\bin\Debug\net7.0\algoritmo recursividad21-11-23.pdb
+C:\tareas de codigo o algoritmo\algoritmo recursividad21-11-23\obj\Debug\net7.0\algoritmo recursividad21-11-23.GeneratedMSBuildEditorConfig.editorconfig
+C:\tareas de codigo o algoritmo\algoritmo recursividad21-11-23\obj\Debug\net7.0\algoritmo recursividad21-11-23.AssemblyInfoInputs.cache
+C:\tareas de codigo o algoritmo\algoritmo recursividad21-11-23\obj\Debug\net7.0\algoritmo recursividad21-11-23.AssemblyInfo.cs
+C:\tareas de codigo o algoritmo\algoritmo recursividad21-11-23\obj\Debug\net7.0\algoritmo recursividad21-11-23.csproj.CoreCompileInputs.cache
+C:\tareas de codigo o algoritmo\algoritmo recursividad21-11-23\obj\Debug\net7.0\algoritmo recursividad21-11-23.dll
+C:\tareas de codigo o algoritmo\algoritmo recursividad21-11-23\obj\Debug\net7.0\refint\algoritmo recursividad21-11-23.dll
+C:\tareas de codigo o algoritmo\algoritmo recursividad21-11-23\obj\Debug\net7.0\algoritmo recursividad21-11-23.pdb
+C:\tareas de codigo o algoritmo\algoritmo recursividad21-11-23\obj\Debug\net7.0\algoritmo recursividad21-11-23.genruntimeconfig.cache
+C:\tareas de codigo o algoritmo\algoritmo recursividad21-11-23\obj\Debug\net7.0\ref\algoritmo recursividad21-11-23.dll
