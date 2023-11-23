@@ -1,0 +1,14 @@
+C:\P2G2 HOMERWORKE\PRO2-UPC-HOMEWORK\DominoRecusivo23-11-23\bin\Debug\net7.0\DominoRecusivo23-11-23.exe
+C:\P2G2 HOMERWORKE\PRO2-UPC-HOMEWORK\DominoRecusivo23-11-23\bin\Debug\net7.0\DominoRecusivo23-11-23.deps.json
+C:\P2G2 HOMERWORKE\PRO2-UPC-HOMEWORK\DominoRecusivo23-11-23\bin\Debug\net7.0\DominoRecusivo23-11-23.runtimeconfig.json
+C:\P2G2 HOMERWORKE\PRO2-UPC-HOMEWORK\DominoRecusivo23-11-23\bin\Debug\net7.0\DominoRecusivo23-11-23.dll
+C:\P2G2 HOMERWORKE\PRO2-UPC-HOMEWORK\DominoRecusivo23-11-23\bin\Debug\net7.0\DominoRecusivo23-11-23.pdb
+C:\P2G2 HOMERWORKE\PRO2-UPC-HOMEWORK\DominoRecusivo23-11-23\obj\Debug\net7.0\DominoRecusivo23-11-23.GeneratedMSBuildEditorConfig.editorconfig
+C:\P2G2 HOMERWORKE\PRO2-UPC-HOMEWORK\DominoRecusivo23-11-23\obj\Debug\net7.0\DominoRecusivo23-11-23.AssemblyInfoInputs.cache
+C:\P2G2 HOMERWORKE\PRO2-UPC-HOMEWORK\DominoRecusivo23-11-23\obj\Debug\net7.0\DominoRecusivo23-11-23.AssemblyInfo.cs
+C:\P2G2 HOMERWORKE\PRO2-UPC-HOMEWORK\DominoRecusivo23-11-23\obj\Debug\net7.0\DominoRecusivo23-11-23.csproj.CoreCompileInputs.cache
+C:\P2G2 HOMERWORKE\PRO2-UPC-HOMEWORK\DominoRecusivo23-11-23\obj\Debug\net7.0\DominoRecusivo23-11-23.dll
+C:\P2G2 HOMERWORKE\PRO2-UPC-HOMEWORK\DominoRecusivo23-11-23\obj\Debug\net7.0\refint\DominoRecusivo23-11-23.dll
+C:\P2G2 HOMERWORKE\PRO2-UPC-HOMEWORK\DominoRecusivo23-11-23\obj\Debug\net7.0\DominoRecusivo23-11-23.pdb
+C:\P2G2 HOMERWORKE\PRO2-UPC-HOMEWORK\DominoRecusivo23-11-23\obj\Debug\net7.0\DominoRecusivo23-11-23.genruntimeconfig.cache
+C:\P2G2 HOMERWORKE\PRO2-UPC-HOMEWORK\DominoRecusivo23-11-23\obj\Debug\net7.0\ref\DominoRecusivo23-11-23.dll
